@@ -1,0 +1,4 @@
+name: iRank
+version: 2.0.0.2
+author: bartzdev
+main: net.bartzdev.irank.IRankPlugin
